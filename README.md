@@ -12,7 +12,7 @@ Less mental stress and feelings of isolation for students and teachers alike.
 Tech Stack:
 ```
 Three.js
-HTML ,CSS
+HTML,CSS
 Blender
 ```
 # Monitoring System-AI

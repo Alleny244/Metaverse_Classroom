@@ -9,7 +9,12 @@ Live student-student and student-teacher interaction. (To do)
 Multiple avatars for teacher and students. (To do)
 Less mental stress and feelings of isolation for students and teachers alike.
 ```
-
+Tech Stack:
+```
+Three.js
+HTML ,CSS
+Blender
+```
 # Monitoring System-AI
 
 Project to create an automated proctoring system where the user can be monitored automatically through the webcam and microphone. 

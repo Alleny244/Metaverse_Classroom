@@ -38,13 +38,6 @@ It is implemented in `face_detector.py` and is used for tracking eyes, mouth ope
 ### Head pose estimation
 `head_pose_estimation.py` is used for finding where the head is facing.
 
-### FPS obtained
-
-Functionality | On Intel i5
---- | ---
-Head Pose Estimation | 8.5
-
-
 If you testing on a different processor a GPU consider making a pull request to add the FPS obtained on that processor.
 
 

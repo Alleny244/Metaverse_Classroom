@@ -2,6 +2,14 @@
 # Metaverse_Classroom
 Built a realistic classroom using metaverse that  mimics the original classroom. Through this project, we have created a virtual classroom model along with an avatar that is animated to move through the classroom and can change perspectives as needed.
 
+Objectives
+```
+To create a virtual classroom/school world accessible through the PC or VR headsets.  
+To incorporates features such as simulations, projections, holograms, etc.  
+To implement methods for multiple users to log in and interact with others in real-time within the environment.  
+To implement monitoring systems to watch the students and assist teachers in classroom activities.  
+```
+
 Features:
 ```
 Real world classroom experience.

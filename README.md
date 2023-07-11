@@ -1,6 +1,6 @@
 
 # Metaverse_Classroom
-Built a realistic classroom using metaverse that  mimics the original classroom. 
+Built a realistic classroom using metaverse that  mimics the original classroom. Through this project, we have created a virtual classroom model along with an avatar that is animated to move through the classroom and can change perspectives as needed.
 
 Features:
 ```
